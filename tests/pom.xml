@@ -36,6 +36,7 @@
 
     <modules>
         <module>standalone-tests</module>
+        <module>execute-commands-tests</module>
         <module>domain-tests</module>
         <module>shared</module>
     </modules>
